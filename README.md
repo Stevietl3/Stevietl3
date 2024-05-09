@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently working on Git and GitHub
-I'm currently learening JavaScript going into full stack
+I'm currently learning JavaScript going into full stack
 I'm looking to collaborate on projects as I continue learning
 I'm looking for help with some of the more complex looping in JavaScript
 Ask me about personal or professional interests, music for example!
