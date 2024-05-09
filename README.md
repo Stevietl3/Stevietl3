@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on Git and GitHub
+I'm currently learening JavaScript going into full stack
+I'm looking to collaborate on projects as I continue learning
+I'm looking for help with some of the more complex looping in JavaScript
+Ask me about personal or professional interests, music for example!
+How to reach me: Discord is a great place - kraygen or Email - sjt2142@yahoo.com
+Fun fact: I am double jointed in many of my fingers, I can make my index finger touch the back of my hand!
